@@ -243,7 +243,7 @@ fun HomeScreen(
                                         Text(
                                             text = entry.goal,
                                             maxLines = 1,
-                                            overflow = TextOverflow.ellipsis
+                                            overflow = TextOverflow.Ellipsis
                                         )
                                     },
                                     badge = {
@@ -445,7 +445,7 @@ fun HomeScreen(
                                         fontWeight = FontWeight.Bold,
                                         fontSize = 14.sp,
                                         maxLines = 1,
-                                        overflow = TextOverflow.ellipsis
+                                        overflow = TextOverflow.Ellipsis
                                     )
                                     Text(
                                         text = "Step $currentStep",
