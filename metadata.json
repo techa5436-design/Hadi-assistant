@@ -1,0 +1,6 @@
+{
+  "name": "PrivateAgent",
+  "description": "Autonomous Android UI automation agent with LLM integration, macro skill replay, accessibility screen control, and Telegram remote management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
